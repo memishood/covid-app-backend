@@ -1,1 +1,1 @@
-web: build/install/server/bin/server
+web: build/install/covid-app-backend/bin/covid-app-backend
