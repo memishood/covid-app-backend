@@ -1,5 +1,9 @@
 package com.covidapp.api
 
+/**
+ * @author emremms35@gmail.com
+ */
+
 import com.covidapp.model.NewsResponse
 import retrofit2.http.GET
 import retrofit2.http.Headers

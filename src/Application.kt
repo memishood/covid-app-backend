@@ -19,6 +19,10 @@ import com.covidapp.service.NewsService
 import com.google.gson.Gson
 import kotlinx.coroutines.runBlocking
 
+/**
+ * @author emremms35@gmail.com
+ */
+
 fun main(args: Array<String>): Unit = io.ktor.server.netty.EngineMain.main(args)
 
 @kotlin.jvm.JvmOverloads

@@ -1,5 +1,9 @@
 package com.covidapp.model
 
+/**
+ * @author emremms35@gmail.com
+ */
+
 data class News(
     val key: String?,
     val url: String?,

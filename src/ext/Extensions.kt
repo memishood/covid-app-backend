@@ -1,5 +1,9 @@
 package com.covidapp.ext
 
+/**
+ * @author emremms35@gmail.com
+ */
+
 object Extensions {
     const val HOST_URL = "https://covid19.saglik.gov.tr/"
     const val ACCESS_TOKEN = "44GBbI9VC3xXl4OVT1O3"

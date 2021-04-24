@@ -4,6 +4,10 @@ import com.covidapp.api.NewsAPI
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 
+/**
+ * @author emremms35@gmail.com
+ */
+
 object NewsService {
     private const val BASE_URL = "https://api.collectapi.com/"
     val api: NewsAPI
